@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aryanacumen/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/aryanacumen/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/aryanacumen/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryanacumen/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryanacumen/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanacumen/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanacumen/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryanacumen/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryanacumen/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/aryanacumen/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aryanacumen/leetcode-solutions/tree/master/0231-power-of-two) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
