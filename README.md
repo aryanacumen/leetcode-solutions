@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/aryanacumen/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryanacumen/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryanacumen/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aryanacumen/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryanacumen/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryanacumen/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -71,4 +73,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
