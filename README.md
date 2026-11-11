@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aryanacumen/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/aryanacumen/leetcode-solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryanacumen/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryanacumen/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/aryanacumen/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/aryanacumen/leetcode-solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanacumen/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/aryanacumen/leetcode-solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/aryanacumen/leetcode-solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/aryanacumen/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aryanacumen/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
