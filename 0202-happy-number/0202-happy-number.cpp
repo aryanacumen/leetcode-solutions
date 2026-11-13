@@ -1,20 +1,24 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        int num = n;
-        
-        while (num != 1) {
-            if (num == 4) return false;
+        int slow = n;
+        int fast = n;
 
-            int result = 0;
-            while (num) {
-                int digit = num % 10;
-                result = result + (digit * digit);
-                num /= 10;
-            }
-            num = result;
-        }
+        do {
+            slow = next(slow);
+            fast = next(next(fast));
+        } while (slow != fast);
         
-        return true;
+        return slow == 1;
+    }
+
+    int next(int x) {
+        int result = 0;
+        while (x) {
+            int digit = x % 10;
+            result += (digit * digit);
+            x /= 10;
+        }
+        return result;
     }
 };
